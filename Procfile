@@ -1,1 +1,1 @@
-worker : npm i ffmpeg && npm start
+worker : pkg install yarn && yarn && npm i ffmpeg && npm start
